@@ -29,13 +29,6 @@
     <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/f9835a4c-227a-41f0-b715-fa4d9a36d61b" />
   </center>
 </div>
-<div align="center">
-  <center>
-    <a href="https://www.instagram.com/titanomtem/?next=%2F"><btn>Instagram</btn></a>
-    <a href="https://www.linkedin.com/in/renata-stuardo-millar-4219933a1/"><btn>Linkedin</btn></a>
-    <a href="renatassmillar@gmail.com"><btn>Gmail</btn></a>
-  </center> 
-</div>
 </div>
 
   
