@@ -19,7 +19,7 @@
 </div>
 
 <div>
-<h3 align="left">Lenguajes usados:</h3>
+<h3 align="left">Lenguajes:</h3>
 <div align="center">
   <center>
     <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/526b2c2e-b61c-432e-8bb7-246fd7c3997e" />
