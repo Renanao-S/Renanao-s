@@ -12,7 +12,7 @@
   <hr>
   <h3 align="left">Presentación:</h3>
   <p align="left"> <i>Me llamo Renata y soy una futura estudiante de ingeniería en informática, sali de mis estudios medios con pocos conocimientos pero me encanta aprender cosas nuevas y aplicar lo aprendido :3</i></p>
-  <ul><i><b>*ೃ༄Tengo 17 años<b><i></ul>
+  <ul><i><b>*ೃ༄Tengo 18 años<b><i></ul>
   <ul><i><b>˚ ༘♡ ·˚ ₊˚ˑ༄ؘTécnico nivel medio en Programación<i><b></ul>
   <ul><i><b>‧·˚ ༘ ꒱Me gusta ver peliculas en mis tiempos libres<b><i></ul>
     <hr>
