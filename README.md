@@ -23,10 +23,7 @@
 <div align="center">
   <center>
     <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/526b2c2e-b61c-432e-8bb7-246fd7c3997e" />
-    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/be37b648-d93a-49f3-990e-06238221d548" />
-    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2f581998-a9c2-4e17-a6b1-f5effd6decc2" />
-    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/762b5442-50f0-4839-9cde-af2c94509d7b" />
-    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/f9835a4c-227a-41f0-b715-fa4d9a36d61b" />
+    <p>Solo python por ahora :C</p>
   </center>
 </div>
 </div>
