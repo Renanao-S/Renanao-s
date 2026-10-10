@@ -17,20 +17,10 @@
   <ul><i><b>‧·˚ ༘ ꒱Me gusta ver peliculas en mis tiempos libres<b><i></ul>
     <hr>
 </div>
-
-<div>
-<h3 align="left">Lenguajes:</h3>
-<div align="center">
-  <center>
-    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/526b2c2e-b61c-432e-8bb7-246fd7c3997e" />
-    <p>Solo python por ahora :C</p>
-  </center>
-</div>
-  Actividad en GitHub
+   Mi Actividad :)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Estadísticas de GitHub" />   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanao-S&layout=compact&hide_border=true&theme=default" alt="Lenguajes más utilizados" /> </p>
-</div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Renanao-S&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Estadísticas de GitHub" />   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanao-S&layout=compact&hide_border=true&theme=default" alt="Lenguajes más utilizados" /> </p>
 
   
 </body>
