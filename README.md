@@ -26,6 +26,10 @@
     <p>Solo python por ahora :C</p>
   </center>
 </div>
+  Actividad en GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Estadísticas de GitHub" />   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanao-S&layout=compact&hide_border=true&theme=default" alt="Lenguajes más utilizados" /> </p>
 </div>
 
   
